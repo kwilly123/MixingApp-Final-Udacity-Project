@@ -68,3 +68,5 @@ Play: If you press the play button it will play all your tracks (if imported) at
 Rewind: If you press the rewind button it will restart all your tracks to the beginning then you just have to press play and it will play them.
 
 ![](ImagesForReadMeFinal/image10.png)
+
+EQ: Also to mention one more thing, to activate the EQ for a track you just need to tap on a track and it will initiate. Then you can use the 8 knobs to modify that tracks frequencies. The Gain knobs add volume to the corresponding frequency that is set in the Freq knobs. Have fun with it!
